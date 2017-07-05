@@ -12,3 +12,5 @@ FtpCopy可以通过configs目录下的.data文件来管理的ftp站点，设置�
 邮箱：niqy@qq.com
 
 ~如果你觉得这款工具提升了工作效率，可以通过左侧的二维码进行捐赠，您的支持将用于开发更多的小工具，感谢您的支持。
+
+![](https://raw.githubusercontent.com/niqingyang/FtpCopy/master/qrcode.png)
