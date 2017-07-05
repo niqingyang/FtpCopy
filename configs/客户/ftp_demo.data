@@ -1,0 +1,12 @@
+## 右键菜单显示的名称
+ftp.name=客户FTP
+## FTP的IP地址
+ftp.host=
+## 端口号
+ftp.port=
+## 用户名
+ftp.username=
+## 密码
+ftp.password=
+## FTP的同步目录
+ftp.dir=/
